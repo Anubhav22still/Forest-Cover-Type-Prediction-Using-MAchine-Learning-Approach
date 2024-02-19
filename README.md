@@ -1,10 +1,8 @@
-Absolutely, a clear and concise README file is crucial for any GitHub repository. Here's an innovative README.md for your forest cover type prediction project:
 
----
 
 # Forest Cover Type Prediction
 
-![Forest Cover](https://images.unsplash.com/photo-1518832170202-2061c5c60640)
+
 
 ## Overview
 
@@ -76,7 +74,7 @@ Contributions are welcome! Please feel free to open a pull request or submit an 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the Group Of 5 Members.
 
 ---
 
