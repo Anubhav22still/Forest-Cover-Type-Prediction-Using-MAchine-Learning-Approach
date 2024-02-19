@@ -1,2 +1,1 @@
-# Forest Cover Type Prediction Using MAchine Learning Approach
- 
+# Forest-Cover-Type-Prediction-using-ML-Approach-
